@@ -13,8 +13,8 @@
             "architecture": "samd",
             "version": "0.0.1",
             "category": "Contributed",
-            "url": "https://github.com/NaveenSivasamy/SAMD21_CustomBoard_For_Arduino/blob/master/SamD21-custom/SamD21-custom.zip?raw=true",
-            "archiveFileName": "SamD21-custom.zip",
+            "url": "https://github.com/NaveenSivasamy/StackRduino_SAMD/blob/master/StackRduino%20M0%20Pro/StackRduino%20M0%20Pro.zip?raw=true",
+            "archiveFileName": "StackRduino%20M0%20Pro.zip",
             "checksum": "SHA-256:cc7f06e7ebecd3b658f10f92232a4047bba923239137d088f898598501304d6e",
             "size": "6143040",
             "boards": [
